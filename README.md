@@ -10,6 +10,7 @@ on standard output the file content. If file doesn't exists, server
 creates its.
 ## LINKS
 [Common error in WINSOCK](https://www.binarytides.com/code-tcp-socket-server-winsock/)
+[Download MinGW-w64](https://sourceforge.net/projects/mingw-w64/)
 ## TEST
 1. USE SERVER PROGRAM Download, compile, build and run the
 _WINSOCK SERVER_ program, written in C, which is available in
