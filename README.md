@@ -2,7 +2,7 @@
 The client open socket, using _WINSOCK_, in order to communicate with
 server. 
 *ATTENTION* before launch _client_, it is *MANDATORY* that 
-*SERVER* application, see last part of documentations, has runned. The
+*SERVER* application, [see](https://github.com/marksniper/WinSockServer). The
 server receive a _GREETING_ by client. The client sends a _GREETING_ to
 server. The client creates new file, called _random.txt_, and writes 10
 randoms number. After, client open the file, in _read mode_ and prints
@@ -44,7 +44,7 @@ https://www.jetbrains.com/student/ or https://www.jetbrains.com/shop/eform/stude
 
 ![figure](img/codeBlocCompiler.jpg "Add library linker in Code Block")
 
-* You can click on "Build and Run" button to launch server
+* You can click on "Build and Run" button to launch client
 
 ![figure](img/buildAndRunButton.jpg "Build and run button")
 
