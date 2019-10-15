@@ -8,8 +8,9 @@ server. The client creates new file, called _random.txt_, and writes 10
 randoms number. After, client open the file, in _read mode_ and prints
 on standard output the file content. If file doesn't exists, server
 creates its.
-## LINKS
+## LINKShttps://sourceforge.net/projects/mingw-w64/
 [Common error in WINSOCK](https://www.binarytides.com/code-tcp-socket-server-winsock/)
+
 [Download MinGW-w64](https://sourceforge.net/projects/mingw-w64/)
 ## TEST
 1. USE SERVER PROGRAM Download, compile, build and run the
